@@ -12,6 +12,7 @@ A. Read ‘Car name.csv’ as a DataFrame and assign it to a variable.
 B. Read ‘Car-Attributes.json as a DataFrame and assign it to a variable. 
 C. Merge both the DataFrames together to form a single DataFrame 
 D. Print 5 point summary of the numerical features and share insights. 
+
 2. Data Preparation & Analysis: 
 A. Check and print feature-wise percentage of missing values present in the data and impute with the best suitable approach. 
 B. Check for duplicate values in the data and impute with the best suitable approach. 
