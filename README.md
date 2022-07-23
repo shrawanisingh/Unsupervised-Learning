@@ -1,10 +1,12 @@
 # Unsupervised-Learning
-##• DOMAIN: Automobile
+## • DOMAIN: Automobile
 • CONTEXT: The data concerns city-cycle fuel consumption in miles per gallon to be predicted in terms of 3 multivalued discrete and 5 
 continuous attributes.
-##• DATA DESCRIPTION: 
+## • DATA DESCRIPTION: 
 • PROJECT OBJECTIVE: To understand K-means Clustering by applying on the Car Dataset to segment the cars into various categories.
+
 • STEPS AND TASK [30 Marks]:
+
 1. Data Understanding & Exploration: [5 Marks]
 A. Read ‘Car name.csv’ as a DataFrame and assign it to a variable. [1 Mark]
 B. Read ‘Car-Attributes.json as a DataFrame and assign it to a variable. [1 Mark]
