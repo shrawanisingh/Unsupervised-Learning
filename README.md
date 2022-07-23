@@ -7,13 +7,13 @@ continuous attributes.
 
 • STEPS:
 
-###1. Data Understanding & Exploration:
+### 1. Data Understanding & Exploration:
 A. Read ‘Car name.csv’ as a DataFrame and assign it to a variable.
 B. Read ‘Car-Attributes.json as a DataFrame and assign it to a variable. 
 C. Merge both the DataFrames together to form a single DataFrame 
 D. Print 5 point summary of the numerical features and share insights. 
 
-###2. Data Preparation & Analysis: 
+### 2. Data Preparation & Analysis: 
 A. Check and print feature-wise percentage of missing values present in the data and impute with the best suitable approach. 
 B. Check for duplicate values in the data and impute with the best suitable approach. 
 C. Plot a pairplot for all features.
@@ -23,7 +23,7 @@ F. Visualize a scatterplot for ‘wt’ and ’mpg’. Datapoints should be dist
 G. Share insights for Q2.f. 
 H. Check for unexpected values in all the features and datapoints with such values. 
 
-###3. Clustering: 
+### 3. Clustering: 
 A. Apply K-Means clustering for 2 to 10 clusters. 
 B. Plot a visual and find elbow point.
 C. On the above visual, highlight which are the possible Elbow points. 
