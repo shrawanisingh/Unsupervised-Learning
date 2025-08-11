@@ -31,3 +31,19 @@ D. Train a K-means clustering model once again on the optimal number of clusters
 E. Add a new feature in the DataFrame which will have labels based upon cluster value. 
 F. Plot a visual and color the datapoints based upon clusters. 
 G. Pass a new DataPoint and predict which cluster it belongs to. 
+
+### Running the example script
+
+1. Install the dependencies listed in `requirements.txt`:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Run the clustering pipeline:
+
+   ```bash
+   python unsupervised_learning.py
+   ```
+
+This generates `elbow_plot.png` for selecting the number of clusters and `clustered_cars.csv` containing the data with assigned cluster labels.
